@@ -1,1 +1,1 @@
-//This is the read me
+//This is a simple chat-app using the MERN stack
